@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif
+}
+body {
+    background-color: rgb(218, 232, 249);
+}
+
+section {
+    padding: 75px 30px;
+}
+section h3 {
+    font-size: 2em;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.lorem-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.lorem-form label {
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    font-size: 1.3em;
+    margin-right: 10px;
+}
+.lorem-form input {
+    width: 10%;
+    font-size: 1.2em;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.lorem-form button.btn {
+    background-color: #779ae4;
+    color: white;
+    border-radius: 10px;
+    text-transform: uppercase;
+    padding: 0px 10px;
+}
+.result {
+    margin-top: 30px;
+}
