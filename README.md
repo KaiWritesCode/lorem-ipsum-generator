@@ -1,4 +1,4 @@
 # lorem-ipsum-generator
 FreeCodeCamp project 
 
-See it here: https://therealkai.github.io/lorem-ipsum-generator/
+See it here: https://kaiwritescode.github.io/lorem-ipsum-generator/
